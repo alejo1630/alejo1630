@@ -6,7 +6,8 @@
 📫 How to reach me: **https://linktr.ee/alejo1630**
 
 📚 Projects:
-- [General Programming](https://github.com/stars/alejo1630/lists/general-programming)
+- 💻[General Programming](https://github.com/stars/alejo1630/lists/general-programming)
+- ⚙[Engineering Programming](https://github.com/stars/alejo1630/lists/engineering-programming)
 
 
 <h3 align="left">Languages and Tools:</h3>
