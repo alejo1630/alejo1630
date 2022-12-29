@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alejandro Castellanos</h1>
 <h3 align="center">A passionate data scientist and engineer from Colombia</h3>
 
-🌱 I’m currently working on: **Data Science, Dashboards, Data Visualization, Dashboards, Machine Learning, Deep Learning, Computer Vision**
+🌱 I’m currently working on: **Data Science, Machine Learning, Deep Learning, Computer Vision, Data Visualization, Dashboards**
 
 📫 How to reach me: **https://linktr.ee/alejo1630**
 
