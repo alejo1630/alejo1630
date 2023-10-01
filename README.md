@@ -8,9 +8,9 @@
 📚 Projects:
 
 - 📑 [Data Science](https://github.com/stars/alejo1630/lists/data-science)
-- 👁‍🗨[Computer Vision](https://github.com/stars/alejo1630/lists/computer-vision)
-- ⚙[Engineering Programming](https://github.com/stars/alejo1630/lists/engineering-programming)
-- 💻[General Programming](https://github.com/stars/alejo1630/lists/general-programming)
+- 👁‍🗨 [Computer Vision](https://github.com/stars/alejo1630/lists/computer-vision)
+- ⚙ [Engineering Programming](https://github.com/stars/alejo1630/lists/engineering-programming)
+- 💻 [General Programming](https://github.com/stars/alejo1630/lists/general-programming)
 
 
 
@@ -21,6 +21,6 @@
 
 <h3 align="left">LinkedIn:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/alejandro castellanos vargas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejandro castellanos vargas" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alejandro-castell-v/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejandro castellanos vargas" height="30" width="40" /></a>
 </p>
 
