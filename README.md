@@ -7,7 +7,7 @@
 
 📚 Projects:
 
-- 📈 [Data Science and Machine Learning](https://github.com/stars/alejo1630/lists/data-science)
+- 📈 [Data Science and Machine Learning](https://github.com/stars/alejo1630/lists/data-science-and-ml)
 - 👁‍🗨 [Computer Vision](https://github.com/stars/alejo1630/lists/computer-vision)
 - ⚙ [Engineering Programming](https://github.com/stars/alejo1630/lists/engineering-programming)
 - 💻 [General Programming](https://github.com/stars/alejo1630/lists/general-programming)
